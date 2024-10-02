@@ -1,0 +1,8 @@
+(defun c:FunctionsResume()
+  (princ "!Pi - Returns Pi Constant \n")
+  (princ "DegToRad - Get the conversion of Degrees to Radians\n")
+  (princ "RadToDeg - Get the conversion of Radians to Degrees\n")
+  (princ "CircleArea - Calculate the circle area, Requires Diameter\n")
+  (princ "CircDiameterByArea - Calculate the diameter of Circle, Requieres Circle Area\n")
+  (princ)
+)
